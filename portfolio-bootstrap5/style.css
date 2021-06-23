@@ -1,0 +1,16 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: aquamarine;
+}
+
+#about {
+  padding-top: 2rem;
+  background-color: cornsilk;
+}
+
+#project {
+  background-color: aquamarine;
+}
